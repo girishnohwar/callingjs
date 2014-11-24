@@ -15193,7 +15193,7 @@ cr.getProjectModel = function() { return [
 				[
 				],
 				[
-					"goAdFree()",
+					"fxpay.init()",
 					0,
 					"12pt Arial",
 					"rgb(0,0,0)",
@@ -15341,7 +15341,7 @@ cr.getProjectModel = function() { return [
 			[
 			[
 				-1,
-				cr.system_object.prototype.cnds.Compare,
+				cr.system_object.prototype.cnds.EveryTick,
 				null,
 				0,
 				false,
@@ -15349,29 +15349,6 @@ cr.getProjectModel = function() { return [
 				false,
 				9338389988807441,
 				false
-				,[
-				[
-					7,
-					[
-						20,
-						0,
-						cr.plugins_.cjs.prototype.exps.ReadExecutionReturn,
-						true,
-						null
-					]
-				]
-,				[
-					8,
-					0
-				]
-,				[
-					7,
-					[
-						0,
-						1
-					]
-				]
-				]
 			]
 			],
 			[
