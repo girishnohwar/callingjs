@@ -14100,7 +14100,7 @@ cr.getProjectModel = function() { return [
 					1,
 					[
 						2,
-						"goAdFree"
+						""
 					]
 				]
 				]
@@ -14154,8 +14154,11 @@ cr.getProjectModel = function() { return [
 				[
 					7,
 					[
-						2,
-						"went adFree"
+						20,
+						0,
+						cr.plugins_.cjs.prototype.exps.ReadExecutionReturn,
+						true,
+						null
 					]
 				]
 				]
