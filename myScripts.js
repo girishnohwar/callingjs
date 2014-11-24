@@ -6,7 +6,7 @@
 fxpay.init({
   onerror: function(error) {
     console.error('An error occurred:', error);
-	return 0;
+	return error;
   },
   oninit: function() {
     console.log('fxpay initialized without errors');
