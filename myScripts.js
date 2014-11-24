@@ -1,3 +1,4 @@
+
 function goAdFree(){
- adFree = 1;
+ var adFree = 1;
 }
