@@ -15193,7 +15193,7 @@ cr.getProjectModel = function() { return [
 				[
 				],
 				[
-					"goAdFree",
+					"goAdFree()",
 					0,
 					"12pt Arial",
 					"rgb(0,0,0)",
