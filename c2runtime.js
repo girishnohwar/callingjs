@@ -14030,13 +14030,51 @@ cr.getProjectModel = function() { return [
 			null,
 			false,
 			null,
+			7672835793094473,
+			[
+			[
+				0,
+				cr.plugins_.cjs.prototype.cnds.OnCreated,
+				null,
+				1,
+				false,
+				false,
+				false,
+				2770133553865701,
+				false
+			]
+			],
+			[
+			[
+				1,
+				cr.plugins_.Text.prototype.acts.SetText,
+				null,
+				8432842611972431,
+				false
+				,[
+				[
+					7,
+					[
+						2,
+						"created"
+					]
+				]
+				]
+			]
+			]
+		]
+,		[
+			0,
+			null,
+			false,
+			null,
 			4197959867237702,
 			[
 			[
 				2,
-				cr.plugins_.Keyboard.prototype.cnds.IsKeyDown,
+				cr.plugins_.Keyboard.prototype.cnds.OnKey,
 				null,
-				0,
+				1,
 				false,
 				false,
 				false,
