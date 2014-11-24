@@ -15340,8 +15340,8 @@ cr.getProjectModel = function() { return [
 			1172650421488913,
 			[
 			[
-				0,
-				cr.plugins_.cjs.prototype.cnds.CompareInstanceVar,
+				-1,
+				cr.system_object.prototype.cnds.Compare,
 				null,
 				0,
 				false,
@@ -15351,8 +15351,14 @@ cr.getProjectModel = function() { return [
 				false
 				,[
 				[
-					10,
-					0
+					7,
+					[
+						20,
+						0,
+						cr.plugins_.cjs.prototype.exps.ReadExecutionReturn,
+						true,
+						null
+					]
 				]
 ,				[
 					8,
